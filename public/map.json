@@ -116,7 +116,7 @@
                 {
                  "height":23.0909090909091,
                  "id":8,
-                 "name":"",
+                 "name":"Tree",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -149,7 +149,7 @@
                 {
                  "height":0,
                  "id":10,
-                 "name":"",
+                 "name":"player",
                  "point":true,
                  "rotation":0,
                  "type":"",
